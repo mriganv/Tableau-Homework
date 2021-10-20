@@ -76,15 +76,6 @@ Your final submission should include:
   * 1 Story 
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
 
-## Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
 
 
 
